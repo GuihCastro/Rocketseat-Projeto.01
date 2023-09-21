@@ -1,0 +1,58 @@
+.main {
+    width: 592px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Inter', sans-serif;
+    margin-top: 3.5rem;
+    margin-bottom: 2rem;
+}
+
+.main .content .header {
+    color: #000;
+    font-size: 49px;
+    font-weight: 400;
+    line-height: 56px;
+    /* 114.286% */
+}
+
+.main .content p {
+    color: #7D7987;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    /* 200% */
+}
+
+.main .content span,
+.footer a {
+    color: #f90;
+}
+
+.footer {
+    height: 30px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    margin-top: 3.5rem;
+    border-top: 1px solid #ECEFF2;;
+    /* 200% */
+}
+
+.footer a {
+    margin: 0 14px;
+}
+
+.balls {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
